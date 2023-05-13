@@ -1,2 +1,18 @@
-# qrcode-generator
-This is a simple web application for generating QR codes using the Google Charts API. The app allows users to enter any text, URL, or other data that they want to encode as a QR code, and then generates a high-quality image of the QR code that can be saved, printed, or shared. Feel free to use and modify it as you wish. 
+## QR Code Generator
+This is a simple QR code generator built with HTML, CSS and Javascript. The tool allows users to easily generate QR codes for any text or URL they input.
+
+# Features
+Generate QR codes for any text or URL
+Easy to use interface
+Download QR codes in PNG format
+
+
+# Usage
+To use the QR code generator, simply paste your link and click the button. Make sure to input the correct text or URL and adjust the size and color options as desired.
+
+
+# License
+This QR code generator is licensed under the MIT lincense.
+
+# Contact
+If you have any questions or issues with this QR code generator, please contact [aribisalapraise12@gmail.com].
